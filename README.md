@@ -11,7 +11,7 @@
   - [Royal College Tips](https://youtu.be/PYR5FLGPqy0) 
 
 
-<h2>👩🏾‍🎓 Certifications</h2>
+<h2>👩🏾‍🎓 Certifications:</h2>
 
 - [Cybersecurity Analyst](https://www.credly.com/badges/04f15cde-5106-4cf2-a934-d972025b672d)
 - [Certified Javascript Developer](https://verify.w3schools.com/1MR74O8CIS)
